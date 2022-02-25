@@ -2,12 +2,12 @@
 class Solution:
     
     def binary_search(self,nums, target: int, ini: int, end: int) -> int:
+        """ Recursive version"""
 
         if (end < ini):
             return -1
         
         ret = (end+ini)//2
-        print(ret)
         if nums[ret] == target:
             return ret
         else:
