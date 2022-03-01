@@ -1,2 +1,2 @@
 # LeetCode
-Problems Resolved from LeetCode
+Problems Resolved from [LeetCode](https://leetcode.com/)
