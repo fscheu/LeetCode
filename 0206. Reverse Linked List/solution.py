@@ -1,13 +1,8 @@
-# Definition for singly-linked list.
-class ListNode:
-     def __init__(self, val=0, next=None):
-         self.val = val
-         self.next = next
-
+from shared import linked_list
 class Solution:
-    def reverseList(self, head: ListNode):
+    def reverseList(self, head: linked_list.ListNode):
 
-        def revL(head: ListNode, prev=None):
+        def revL(head: linked_list.ListNode, prev=None):
             
             if not head:
                 return prev
