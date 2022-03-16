@@ -3,6 +3,7 @@ Problems Resolved from [LeetCode](https://leetcode.com/)
 
 <details><summary>Table with Problems</summary>
 <p>
+
 | Problem #  | Title | Solution | Tags
 | ------------- | ------------- | ------------- | ------------- |
 | 0003  | [Longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [Link](https://github.com/fscheu/LeetCode/tree/main/0003.%20Longest%20Substring) | `Hash Table` `String` `Sliding Window`
