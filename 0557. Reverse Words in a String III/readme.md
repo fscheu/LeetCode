@@ -1,23 +1,24 @@
-## 344. Reverse String
-[LeetCode link](https://leetcode.com/problems/reverse-string/)
+## 557. Reverse Words in a String III
+[LeetCode link](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 
-Write a function that reverses a string. The input string is given as an array of characters s.
-
-You must do this by modifying the input array in-place with O(1) extra memory.
+Given a string s, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
 
 **Example 1:**
 ```
-Input: s = ["h","e","l","l","o"]
-Output: ["o","l","l","e","h"]
+Input: s = "Let's take LeetCode contest"
+Output: "s'teL ekat edoCteeL tsetnoc"
 ```
 **Example 2:**
 ```
-Input: s = ["H","a","n","n","a","h"]
-Output: ["h","a","n","n","a","H"]
+Input: s = "God Ding"
+Output: "doG gniD"
 ``` 
 
 **Constraints:**
 ```
-- 1 <= s.length <= 105
-- s[i] is a printable ascii character.
+- 1 <= s.length <= 5 * 104
+- s contains printable ASCII characters.
+- s does not contain any leading or trailing spaces.
+- There is at least one word in s.
+- All the words in s are separated by a single space.
 ``` 

@@ -5,21 +5,17 @@ class SolutionTestCase(unittest.TestCase):
     """ Tests for Solution """
 
     def test_one(self):
-        s = ["h","e","l","l","o"]
-        target = ["o","l","l","e","h"]
+        s = "Let's take LeetCode contest"
+        target = "s'teL ekat edoCteeL tsetnoc"
         a = Solution()
-        a.reverseString(s)
-        self.assertEqual(s,target)
+        self.assertEqual(a.reverseWords(s),target)
     
     def test_two(self):
-        s = ["H","a","n","n","a","h"]
-        target = ["h","a","n","n","a","H"]
+        s = "God Ding"
+        target = "doG gniD"
         a = Solution()
-        a.reverseString(s)
-        self.assertEqual(s,target)
+        self.assertEqual(a.reverseWords(s),target)
 
 
 unittest.main()
 
-#[-1,0,3,5,9,12]
-#9
