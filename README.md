@@ -26,6 +26,7 @@ Problems Resolved from [LeetCode](https://leetcode.com/)
 | 0278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Link](https://github.com/fscheu/LeetCode/tree/main/0278.%20First%20Bad%20Version) | `Binary Search` `Interactive`
 | 0283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Link](https://github.com/fscheu/LeetCode/tree/main/0283.%20Move%20Zeroes) | `Array` `Two Pointers`
 | 0344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Link](https://github.com/fscheu/LeetCode/tree/main/0344.%20Reverse%20String) | `Recursion` `String` `Two Pointers`
+| 0424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Link](https://github.com/fscheu/LeetCode/tree/main/0424.%20Longest%20Repeating%20Character%20Replacement) | `Hash Table` `String` `Sliding Window`
 | 0542  | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Link](https://github.com/fscheu/LeetCode/tree/main/0542.%2001%20Matrix) | `Array` `Dynamic Programming` `Matrix` `Bread-First Search`
 | 0557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Link](https://github.com/fscheu/LeetCode/tree/main/0557.%20Reverse%20Words%20in%20a%20String%20III) | `String` `Two Pointers`
 | 0567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Link](https://github.com/fscheu/LeetCode/tree/main/0567.%20Permutation%20in%20String) | `String` `Two Pointers` `Hash Table` `Sliding Window`
